@@ -12,6 +12,8 @@
     <PackageLicenseFile>LICENSE.MD</PackageLicenseFile>
     <PackageProjectUrl>https://gtincker.com</PackageProjectUrl>
     <RepositoryUrl>https://github.com/jack1232/PayPalSubscription</RepositoryUrl>
+    <Version>1.0.1</Version>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <ItemGroup>
